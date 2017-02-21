@@ -12,7 +12,7 @@ def question_1():
     c) String
     d) Collection
     """
-    "Boolean"
+    return "Boolean"
 
 
 # Question 2
@@ -29,7 +29,7 @@ def question_2():
     d) False
     e) "hello world"
     """
-    False
+    return False
 
 
 # Question 3
